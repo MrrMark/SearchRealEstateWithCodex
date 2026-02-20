@@ -1,0 +1,7 @@
+# Optional runtime dependencies
+playwright==1.51.0
+streamlit==1.44.1
+pandas==2.2.3
+
+# Test dependency
+pytest==8.3.5
